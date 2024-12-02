@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\refint\CollatzConjecture.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\CollatzConjecture\obj\Debug\net8.0\ref\CollatzConjecture.dll

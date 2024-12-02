@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\bin\Debug\net9.0\Hamming.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\bin\Debug\net9.0\Hamming.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\bin\Debug\net9.0\Hamming.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\bin\Debug\net9.0\Hamming.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\bin\Debug\net9.0\Hamming.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\Hamming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\Hamming.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\Hamming.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\Hamming.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\Hamming.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\refint\Hamming.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\Hamming.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\Hamming.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Hamming\obj\Debug\net9.0\ref\Hamming.dll

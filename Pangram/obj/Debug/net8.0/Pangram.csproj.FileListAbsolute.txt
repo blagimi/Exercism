@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\bin\Debug\net8.0\Pangram.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\bin\Debug\net8.0\Pangram.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\bin\Debug\net8.0\Pangram.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\bin\Debug\net8.0\Pangram.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\bin\Debug\net8.0\Pangram.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\Pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\Pangram.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\Pangram.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\Pangram.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\refint\Pangram.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\Pangram.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\Pangram.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Pangram\obj\Debug\net8.0\ref\Pangram.dll

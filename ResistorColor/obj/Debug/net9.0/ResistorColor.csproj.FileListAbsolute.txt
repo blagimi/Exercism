@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\bin\Debug\net9.0\ResistorColor.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\bin\Debug\net9.0\ResistorColor.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\bin\Debug\net9.0\ResistorColor.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\bin\Debug\net9.0\ResistorColor.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\bin\Debug\net9.0\ResistorColor.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ResistorColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ResistorColor.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ResistorColor.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ResistorColor.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ResistorColor.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\refint\ResistorColor.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ResistorColor.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ResistorColor.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\ResistorColor\obj\Debug\net9.0\ref\ResistorColor.dll

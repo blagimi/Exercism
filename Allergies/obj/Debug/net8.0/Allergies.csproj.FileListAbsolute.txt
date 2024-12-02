@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\Allergies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\Allergies.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\Allergies.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\Allergies.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\bin\Debug\net8.0\Allergies.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\bin\Debug\net8.0\Allergies.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\bin\Debug\net8.0\Allergies.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\bin\Debug\net8.0\Allergies.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\bin\Debug\net8.0\Allergies.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\Allergies.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\refint\Allergies.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\Allergies.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\Allergies.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Allergies\obj\Debug\net8.0\ref\Allergies.dll

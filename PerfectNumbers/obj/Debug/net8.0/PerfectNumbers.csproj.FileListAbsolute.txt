@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\bin\Debug\net8.0\PerfectNumbers.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\bin\Debug\net8.0\PerfectNumbers.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\bin\Debug\net8.0\PerfectNumbers.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\bin\Debug\net8.0\PerfectNumbers.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\bin\Debug\net8.0\PerfectNumbers.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\PerfectNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\PerfectNumbers.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\PerfectNumbers.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\PerfectNumbers.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\PerfectNumbers.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\refint\PerfectNumbers.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\PerfectNumbers.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\PerfectNumbers.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\PerfectNumbers\obj\Debug\net8.0\ref\PerfectNumbers.dll

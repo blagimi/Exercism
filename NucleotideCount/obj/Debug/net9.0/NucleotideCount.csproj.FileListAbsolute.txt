@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\bin\Debug\net9.0\NucleotideCount.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\bin\Debug\net9.0\NucleotideCount.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\bin\Debug\net9.0\NucleotideCount.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\bin\Debug\net9.0\NucleotideCount.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\bin\Debug\net9.0\NucleotideCount.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\NucleotideCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\NucleotideCount.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\NucleotideCount.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\NucleotideCount.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\NucleotideCount.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\refint\NucleotideCount.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\NucleotideCount.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\NucleotideCount.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\NucleotideCount\obj\Debug\net9.0\ref\NucleotideCount.dll

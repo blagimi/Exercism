@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\bin\Debug\net9.0\GigaSecond.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\bin\Debug\net9.0\GigaSecond.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\bin\Debug\net9.0\GigaSecond.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\bin\Debug\net9.0\GigaSecond.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\bin\Debug\net9.0\GigaSecond.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\GigaSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\GigaSecond.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\GigaSecond.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\GigaSecond.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\GigaSecond.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\refint\GigaSecond.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\GigaSecond.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\GigaSecond.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GigaSecond\obj\Debug\net9.0\ref\GigaSecond.dll

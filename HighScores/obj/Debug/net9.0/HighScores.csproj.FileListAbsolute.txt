@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\bin\Debug\net9.0\HighScores.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\bin\Debug\net9.0\HighScores.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\bin\Debug\net9.0\HighScores.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\bin\Debug\net9.0\HighScores.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\bin\Debug\net9.0\HighScores.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\HighScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\HighScores.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\HighScores.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\HighScores.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\HighScores.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\refint\HighScores.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\HighScores.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\HighScores.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\HighScores\obj\Debug\net9.0\ref\HighScores.dll

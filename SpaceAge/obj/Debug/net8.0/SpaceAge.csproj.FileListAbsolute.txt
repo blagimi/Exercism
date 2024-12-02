@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\bin\Debug\net8.0\SpaceAge.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\bin\Debug\net8.0\SpaceAge.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\bin\Debug\net8.0\SpaceAge.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\bin\Debug\net8.0\SpaceAge.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\bin\Debug\net8.0\SpaceAge.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\SpaceAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\SpaceAge.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\SpaceAge.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\SpaceAge.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\SpaceAge.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\refint\SpaceAge.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\SpaceAge.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\SpaceAge.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\SpaceAge\obj\Debug\net8.0\ref\SpaceAge.dll

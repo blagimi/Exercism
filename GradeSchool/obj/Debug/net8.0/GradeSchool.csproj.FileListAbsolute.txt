@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\bin\Debug\net8.0\GradeSchool.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\bin\Debug\net8.0\GradeSchool.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\bin\Debug\net8.0\GradeSchool.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\bin\Debug\net8.0\GradeSchool.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\bin\Debug\net8.0\GradeSchool.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\GradeSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\GradeSchool.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\GradeSchool.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\GradeSchool.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\GradeSchool.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\refint\GradeSchool.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\GradeSchool.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\GradeSchool.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\GradeSchool\obj\Debug\net8.0\ref\GradeSchool.dll

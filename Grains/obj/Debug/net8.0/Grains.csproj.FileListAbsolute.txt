@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\bin\Debug\net8.0\Grains.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\bin\Debug\net8.0\Grains.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\bin\Debug\net8.0\Grains.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\bin\Debug\net8.0\Grains.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\bin\Debug\net8.0\Grains.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\Grains.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\Grains.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\Grains.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\Grains.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\refint\Grains.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\Grains.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\Grains.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\Grains\obj\Debug\net8.0\ref\Grains.dll

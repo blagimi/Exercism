@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\bin\Debug\net9.0\TwoFer.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\bin\Debug\net9.0\TwoFer.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\bin\Debug\net9.0\TwoFer.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\bin\Debug\net9.0\TwoFer.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\bin\Debug\net9.0\TwoFer.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\TwoFer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\TwoFer.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\TwoFer.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\TwoFer.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\TwoFer.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\refint\TwoFer.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\TwoFer.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\TwoFer.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\TwoFer\obj\Debug\net9.0\ref\TwoFer.dll

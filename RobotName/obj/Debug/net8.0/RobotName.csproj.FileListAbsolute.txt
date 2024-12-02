@@ -1,0 +1,14 @@
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\bin\Debug\net8.0\RobotName.exe
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\bin\Debug\net8.0\RobotName.deps.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\bin\Debug\net8.0\RobotName.runtimeconfig.json
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\bin\Debug\net8.0\RobotName.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\bin\Debug\net8.0\RobotName.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\RobotName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\RobotName.AssemblyInfoInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\RobotName.AssemblyInfo.cs
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\RobotName.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\RobotName.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\refint\RobotName.dll
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\RobotName.pdb
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\RobotName.genruntimeconfig.cache
+C:\Users\blagi\Documents\VisualStudioCode\Exercism\RobotName\obj\Debug\net8.0\ref\RobotName.dll
